@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_251">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/POOJAA/Downloads/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/POOJAA/Downloads/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/POOJAA/Desktop/Mail/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/POOJAA/Desktop/Mail/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/POOJAA/Desktop/Mail/smtp-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/POOJAA/Downloads/apache-tomcat-8.5.61-windows-x64/apache-tomcat-8.5.61/lib/jsp-api"/>
+	<classpathentry kind="lib" path="C:/Users/POOJAA/Downloads/apache-tomcat-8.5.61-windows-x64/apache-tomcat-8.5.61/lib/servlet-api"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
